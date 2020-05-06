@@ -1,4 +1,5 @@
 
+# [Here is my notebook on kaggle](https://www.kaggle.com/mohieeldin/predict-movies-rating?scriptVersionId=33041861)
 ### Introduction
 This project aims to predict for each movie what is the rate using RMSE as a metric for evaluating the model.
 Users were selected at random for inclusion. All users selected had rated at least 20 movies. Unlike previous MovieLens data sets, no demographic information is included. Each user is represented by an id, and no other information is provided.
@@ -12,4 +13,4 @@ The MovieLens dataset can be downloaded from thins link https://grouplens.org/da
 #### Tools used
 I used kaggle kernal as my machine resources is not enought to handle a big data set like this so all model fitting and experimentation was made on it as it gives me 4 cores and 16 gega RAM
 
-# [Here is my notebook on kaggle](https://www.kaggle.com/mohieeldin/predict-movies-rating?scriptVersionId=33041861)
+
